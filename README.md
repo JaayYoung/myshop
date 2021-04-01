@@ -1,2 +1,2 @@
-# MyShop 单体地狱版
-
+# MyShop 
+基于Springboot的多模块商城项目，后台页面运用Layui+SpringBoot+Mybatis-plus框架包括商品管理、会员管理、订单管理、快递公司管理、广告管理多模块。前端页面运用了Bootstrap框架，JavaScript编写购物车，实现商品缓存和商品价格的计算。通过freemarker来实现前后端数据交互，实现各种商品的展示。通过shiro来进行用户登录与访问商品页面之间的权限控制。
